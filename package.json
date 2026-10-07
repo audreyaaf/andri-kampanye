@@ -1,0 +1,13 @@
+{
+  "name": "andri-rw13",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Halaman kampanye Andri Juliono, calon Ketua RW 13 nomor urut 2.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
